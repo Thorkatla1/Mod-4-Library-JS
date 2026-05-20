@@ -1,3 +1,5 @@
+console.log("Let's go!")
+
 let books;
 
 async function renderBooks(filter) {
